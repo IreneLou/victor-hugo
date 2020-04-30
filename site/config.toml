@@ -61,3 +61,13 @@ url = "mailto:mail@alexbilz.com"
   weight = 200
   identifier = "posts"
   url = "/post/"
+
+ [[menu.main]]
+  name = "About"
+  url  = "about"
+  weight = 5
+
+ [[menu.main]]
+  name = "Blog"
+  url  = "post/"
+  weight = 10
